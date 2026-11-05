@@ -1,0 +1,10 @@
+{
+  "apiVersion": 1,
+  "id": "minutes",
+  "name": "Minutes",
+  "description": "Readable approval presentations for Minutes MCP tools.",
+  "version": "1.0.0",
+  "normalizationVersion": 2,
+  "entry": "plugin.mjs",
+  "sha256": "6509ad64930049f8a2c38276ea46c722361d0abc88d7a0f55ba63e11f8257f01"
+}
